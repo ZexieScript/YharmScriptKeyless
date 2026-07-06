@@ -1,1 +1,1 @@
-   loadstring(game:HttpGet("https://raw.githubusercontent.com/ArisuScript/lol/refs/heads/main/lol"))()
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/vR6YKWvEqT/0"))()
